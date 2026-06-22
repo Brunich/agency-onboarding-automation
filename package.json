@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Client onboarding automation: form webhook → ClickUp checklist + bilingual AI concierge prompts",
+  "description": "Onboarding form webhook → ClickUp checklist + bilingual concierge prompts + audit log",
   "scripts": {
     "demo": "tsx src/demo.ts",
     "dev": "tsx src/server.ts",
